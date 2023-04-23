@@ -1,5 +1,7 @@
 # Profile Page
 
+---
+
 <img src="https://github.com/md-hzs-22/md-hzs-22.github.io/blob/main/Photo%20from%20Mo%20Hamza%20Sabugar.jpg" width="120" ><br><i>Profile Pic</i>
 
 
