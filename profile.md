@@ -17,4 +17,5 @@ Following are my performances in Previous Class:-
 >|10|A2|89%|
 >|12|A2|84%|
 
-Follow me on *Instagram*  <a href="https://www.instagram.com/md_hzs_22/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="Instagram Icon" width="25" ></a> `md_hzs_22` and on *Facebook*  <a href="https://www.facebook.com/profile.php?id=100068268500657"><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt="Facebook Icon" width="35" ></a> `Md Hamza Sabugar`
+Follow me : *Instagram*  <a href="https://www.instagram.com/md_hzs_22/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="Instagram Icon" width="25" ></a>  <a href="https://www.instagram.com/md_hzs_22/">`md_hzs_22`</a> ; *Facebook*  <a href="https://www.facebook.com/profile.php?id=100068268500657"><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt="Facebook Icon" width="35" ></a> <a href="https://www.facebook.com/profile.php?id=100068268500657">`Md Hamza Sabugar`</a>  
+Mail me : <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDBlbNwDLwQHHtMwvqXmXjXJdzlxJhtjkLKQDMdmDtJHKGDSfjBHnBLTJJsvSKwqMVTwL"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="35" alt="Gmail" ></a> `hamzasabugar@gmail.com`
