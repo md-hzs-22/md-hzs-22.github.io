@@ -20,8 +20,4 @@ Following are my performances in Previous Class:-
 
 Contact me :
 - Mail : <sabugar.hamza.22031@iitgoa.ac.in>
-- Instagram :  <div class="social-icons-image">
-                   <a href="https://www.instagram.com/md_hzs_22/">
-                       <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon">
-                   </a>
-               </div>
+- Instagram :<a href="https://www.instagram.com/md_hzs_22/"><img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon"</a>
