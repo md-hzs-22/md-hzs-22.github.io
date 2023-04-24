@@ -29,7 +29,7 @@ I am pursueing Computer Science and Engineering at ***Indian Institute of Technl
 
 - I also attempted GUJCET, state level enterance exam in which I got around 320 rank all over Gujarat
 
-To study more about `IIT Goa`, click <a href="https://iitgoa.ac.in/" target="_blank">`here`<a>  
+To learn more about `IIT Goa`, click <a href="https://iitgoa.ac.in/" target="_blank">`here`<a>  
 
 ***Follow me*** :
 - *Instagram*  <a href="https://www.instagram.com/md_hzs_22/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="Instagram Icon" width="25" ></a>  <a href="https://www.instagram.com/md_hzs_22/" target="_blank">`md_hzs_22`</a>  
