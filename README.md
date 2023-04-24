@@ -1,7 +1,7 @@
 # Profile Page  
 ###### *Date created : 24 April, 2023* ######
 
-<img src="https://github.com/md-hzs-22/md-hzs-22.github.io/blob/main/Photo%20from%20Mo%20Hamza%20Sabugar.jpg" alt="Profile pic" width="200" ><br><i>Profile Pic</i>
+<img src="https://raw.githubusercontent.com/md-hzs-22/md-hzs-22.github.io/main/Photo%20from%20Mo%20Hamza%20Sabugar.jpg" alt="Profile pic" width="200" ><br><i>Profile Pic</i>
 
 **Name** : Md. Hamza Z. Sabugar  
 **Age** : 18 years  
