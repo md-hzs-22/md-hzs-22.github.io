@@ -1,10 +1,18 @@
 # Profile Page  
-###### *Date created : 24 April, 2023* ######
+###### *Date created : 25 April, 2023* ######
+<hr>  
+
+## About me ##
 
 <img src="https://raw.githubusercontent.com/md-hzs-22/md-hzs-22.github.io/main/Photo%20from%20Mo%20Hamza%20Sabugar.jpg" alt="Profile pic" width="200" ><br><i>Profile Pic</i>
 
 **Name** : Md. Hamza Z. Sabugar  
 **Age** : 18 years  
+**Date of Birth** : 22nd May, 2005
+<hr>
+
+## Education ##
+
 **Schooling** : 
 - From Nursery to 9th Standard in *Rumi English High School*
 - From 10th standard to 12th Standard in *Faith Higher Secondary School*  
@@ -29,7 +37,33 @@ I am pursueing Computer Science and Engineering at ***Indian Institute of Technl
 
 - I also attempted GUJCET, state level enterance exam in which I got around 320 rank all over Gujarat
 
+<hr>  
+
+## Course @IIT GOA ##
+
+Following are the first Year Courses in IIT GOa Spring Semester:-  
+- *Basic Linear Algebra*(**MA102**)
+- *Ordinary Differential Equation* (**MA103**)
+- *Electricity and Magnetism* (**PH102**)
+- *Physics Lab* (**PH103**)
+- *Introduction to Electrical and Electronics Engineering* (**EE101**)
+- *Introduction to Biology* (**BIO101**)
+- *Intoduction to Manufacturing* (**ME101**)
+- *Engineering Graphics* (**ME102**)
+- *National sports organization* (**NO101**)
+- *Computer Science*(**CS102**)
+
 To learn more about `IIT Goa`, click <a href="https://iitgoa.ac.in/" target="_blank">`here`<a>  
+<hr>
+ 
+## Hobbies ##
+1. I love playing video games and watching Movies
+2. I love Drawing some cartoon sketches
+3. I am a foodie 
+4. I love playing Badminton and cricket.
+
+<hr>
+
 
 >>***Follow me*** :
 >>- *Instagram*  <a href="https://www.instagram.com/md_hzs_22/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="Instagram Icon" width="25" ></a>  <a href="https://www.instagram.com/md_hzs_22/" target="_blank">`md_hzs_22`</a>  
