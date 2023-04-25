@@ -10,7 +10,7 @@
 **Age** : 18 years  
 **Date of Birth** : 22nd May, 2005
 <hr>
-https://raw.githubusercontent.com/md-hzs-22/md-hzs-22.github.io/main/Photo%20from%20Mo%20Hamza%20Sabugar.jpg
+
 ## Education ##
 
 **Schooling** : 
